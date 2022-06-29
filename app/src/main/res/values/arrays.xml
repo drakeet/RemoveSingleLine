@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="scope">
+    <item>com.microsoft.office.outlook</item>
+    <item>com.microsoft.office.outlook.dev</item>
+    <item>com.microsoft.office.outlook.dogfood</item>
+    <item>com.google.android.gm</item>
+  </string-array>
+</resources>
